@@ -1,2 +1,0 @@
-// todo: HTML collections, node Collection and arrays are different. HTML collections and node collections can be converted to arrays. They are not by default arrays. That is why these collections do not have map, filter etc properties. However it has some properties such as
-// console.log(document.links[2]);
